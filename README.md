@@ -1,1 +1,8 @@
-# Apple-greenhouse-gas-emissions
+- Focus: Apple's goal of carbon neutrality by 2030
+- Analysis via Tableau visualizations on emissions data
+- Aim to cut emissions by 75% from 2015 levels
+- Use of offsets for remaining 25% to achieve net-zero emissions
+- Notable 47% reduction from 2015 to 2020
+- Emissions divided into corporate and product lifecycle categories
+- Correlation observed with Apple's revenue
+- Key dashboards track progress: corporate carbon neutrality, reduced product carbon footprints, and forecast towards 2030 goal.
