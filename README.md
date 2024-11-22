@@ -1,4 +1,3 @@
-# Apple greenhouse gas emissions:
 The dashboard can be viewed through [this Tableau public link](https://public.tableau.com/app/profile/khaled.hamadi/viz/AppleGreenhousegasemissions/Report-Part3)
 
 **Focus:** Analyzed Apple’s commitment to achieving carbon neutrality by 2030
